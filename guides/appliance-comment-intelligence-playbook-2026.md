@@ -2,11 +2,11 @@
 
 > `格力海信真铜实料之争背后` 这种品牌争议，一上热榜就很容易变成流量口。但对家电品牌、经销商和内容团队来说，真正有价值的不是蹭一句口水战，而是尽快看懂：用户到底在讨论参数真假、价格、售后，还是品牌信任。
 
-![cover](./images/appliance-comment-intelligence-playbook-2026/cover-wechat-2_35x1.webp)
+![cover](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/appliance-comment-intelligence-playbook-2026/cover-wechat-2_35x1.webp)
 
 ## 品牌争议为什么又热又危险
 
-![content-01](./images/appliance-comment-intelligence-playbook-2026/content-01.webp)
+![content-01](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/appliance-comment-intelligence-playbook-2026/content-01.webp)
 
 家电争议类话题有一个典型特征：讨论速度很快，但用户判断并不稳定。
 
@@ -20,7 +20,7 @@
 
 ## 三个平台，三个不同问题层
 
-![content-02](./images/appliance-comment-intelligence-playbook-2026/content-02.webp)
+![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/appliance-comment-intelligence-playbook-2026/content-02.webp)
 
 评论舆情 skill 的价值，不在于单个平台的情感百分比，而在于**跨平台对照后的问题分层**。
 
@@ -44,7 +44,7 @@
 
 ## 把评论拆成四类，运营动作才会清楚
 
-![content-03](./images/appliance-comment-intelligence-playbook-2026/content-03.webp)
+![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/appliance-comment-intelligence-playbook-2026/content-03.webp)
 
 家电争议话题跑完评论后，建议先别急着做总结，先把评论切成四类：
 

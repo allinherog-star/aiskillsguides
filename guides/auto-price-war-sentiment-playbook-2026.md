@@ -2,11 +2,11 @@
 
 > 2026 年 4 月 21 日，`近70款车集体降价` 进入抖音上升热点。很多账号看到这种词就会立刻做热搜复述，但汽车内容真正值钱的不是“发生了降价”，而是用户在评论里到底在问什么、怕什么、卡在哪一步不下单。
 
-![cover](./images/auto-price-war-sentiment-playbook-2026/cover-wechat-2_35x1.webp)
+![cover](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/auto-price-war-sentiment-playbook-2026/cover-wechat-2_35x1.webp)
 
 ## 热搜只能告诉你发生了什么
 
-![content-01](./images/auto-price-war-sentiment-playbook-2026/content-01.webp)
+![content-01](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/auto-price-war-sentiment-playbook-2026/content-01.webp)
 
 `douyin-hotlist-overall` 很适合做第一层预警。它能让你第一时间知道：
 
@@ -26,7 +26,7 @@
 
 ## 评论里才有真实购买阻力
 
-![content-02](./images/auto-price-war-sentiment-playbook-2026/content-02.webp)
+![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/auto-price-war-sentiment-playbook-2026/content-02.webp)
 
 评论舆情类 skill 在汽车话题里最有价值的地方，是它能帮你把“热闹”翻译成“购买阻力”。
 
@@ -46,7 +46,7 @@
 
 ## 怎么把评论转成内容和销售话术
 
-![content-03](./images/auto-price-war-sentiment-playbook-2026/content-03.webp)
+![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/auto-price-war-sentiment-playbook-2026/content-03.webp)
 
 把评论跑完以后，不要只停留在“正负面比例”。真正有用的是把评论整理成 4 类问题清单：
 

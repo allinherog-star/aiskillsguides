@@ -2,11 +2,11 @@
 
 > 这一轮抖音热词里，`贵州烧烤大排档真的不一样`、`上天入地我最爱喝咖啡` 这类内容都在冒头。但平台流量分配大盘里，美食并不是高占比赛道。这代表一个现实：探店号不是不能做，而是不能再拍“这家店真好吃”这种没有结构的内容。
 
-![cover](./images/foodie-topic-selection-playbook-2026/cover-wechat-2_35x1.webp)
+![cover](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/foodie-topic-selection-playbook-2026/cover-wechat-2_35x1.webp)
 
 ## 为什么普通探店越来越难起量
 
-![content-01](./images/foodie-topic-selection-playbook-2026/content-01.webp)
+![content-01](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/foodie-topic-selection-playbook-2026/content-01.webp)
 
 探店内容难，不是因为观众不爱看吃的，而是因为平台已经被三类低效内容塞满了：
 
@@ -26,7 +26,7 @@
 
 ## 先看大盘，决定要不要重投
 
-![content-02](./images/foodie-topic-selection-playbook-2026/content-02.webp)
+![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/foodie-topic-selection-playbook-2026/content-02.webp)
 
 `douyin-traffic-dashboard` 的意义，在探店赛道尤其重要。
 
@@ -42,7 +42,7 @@
 
 ## 现在更值得追的三类探店题材
 
-![content-03](./images/foodie-topic-selection-playbook-2026/content-03.webp)
+![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/foodie-topic-selection-playbook-2026/content-03.webp)
 
 ### 第一类：地方感很强的夜间题材
 

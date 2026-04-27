@@ -2,11 +2,11 @@
 
 > 2026 年 4 月 21 日这轮旅行上升词很集中：`五一来新疆开启一场自由之旅`、`用colorwalk解锁城市`、`全国赏花地图大公开` 都在涨。但抖音流量分配大盘里，旅行只占约 2%。这说明它更像一个窗口机会，而不是全年都能闭眼重投的主赛道。
 
-![cover](./images/mayday-travel-traffic-playbook-2026/cover-wechat-2_35x1.webp)
+![cover](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/mayday-travel-traffic-playbook-2026/cover-wechat-2_35x1.webp)
 
 ## 为什么五一前十天值得拍旅行
 
-![content-01](./images/mayday-travel-traffic-playbook-2026/content-01.webp)
+![content-01](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/mayday-travel-traffic-playbook-2026/content-01.webp)
 
 如果你只盯热搜，会觉得旅行只是“大家都在发风景”。但看上升词会发现，这一波真正涨得快的不是泛风景，而是三类更具体的内容：
 
@@ -18,7 +18,7 @@
 
 ## 先看大盘，再决定投多重
 
-![content-02](./images/mayday-travel-traffic-playbook-2026/content-02.webp)
+![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/mayday-travel-traffic-playbook-2026/content-02.webp)
 
 很多团队一看到旅行上涨，就会立刻把下周排期全改掉，这是典型的过度反应。
 
@@ -37,7 +37,7 @@
 
 ## 把旅行热点拆成三种可拍模板
 
-![content-03](./images/mayday-travel-traffic-playbook-2026/content-03.webp)
+![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/mayday-travel-traffic-playbook-2026/content-03.webp)
 
 看完上升热点以后，不要直接跟拍原题目。更有效的做法，是把它拆成可复用模板。
 

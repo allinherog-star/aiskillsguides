@@ -2,11 +2,11 @@
 
 > 选错对标账号，等于给自己挖了一个三个月的坑：内容方向是对的、数据也涨了，但就是不赚钱。问题不在执行，而在你一开始挑对标的标准就错了——你看的是流量，应该看的是商业价值。
 
-![cover](./images/benchmark-account-business-value/cover-wechat-2_35x1.webp)
+![cover](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/benchmark-account-business-value/cover-wechat-2_35x1.webp)
 
 ## 误区：粉丝数是最容易骗自己的指标
 
-![content-01](./images/benchmark-account-business-value/content-01.webp)
+![content-01](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/benchmark-account-business-value/content-01.webp)
 
 大部分人找对标的第一反应是『搜行业关键词，按粉丝数排序，挑前十个跟着抄』。这套流程看起来很科学，但只对 MCN 拼播放量有用，对一个想靠这个账号赚钱的个体来说，是最危险的起点。
 
@@ -24,7 +24,7 @@
 
 ## 4 个商业价值信号怎么看
 
-![content-02](./images/benchmark-account-business-value/content-02.webp)
+![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/benchmark-account-business-value/content-02.webp)
 
 下面 4 个信号按优先级排序，建议每个候选对标账号都按这张表打一次分：
 
@@ -41,7 +41,7 @@
 
 ## 3 步执行清单：30 分钟筛出能复用的对标
 
-![content-03](./images/benchmark-account-business-value/content-03.webp)
+![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/benchmark-account-business-value/content-03.webp)
 
 这套流程亲测每周一次，每次 30 分钟，可以稳定产出 3-5 个高质量对标。
 
@@ -53,7 +53,7 @@
 
 ## 5 个一票否决的对标特征
 
-![content-04](./images/benchmark-account-business-value/content-04.webp)
+![content-04](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/benchmark-account-business-value/content-04.webp)
 
 看到下列任一特征，直接划掉，不要心存侥幸：
 

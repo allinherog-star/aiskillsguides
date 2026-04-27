@@ -2,11 +2,11 @@
 
 > 2026 年 4 月 21 日的时尚上升热点很说明问题：在涨的不是“某个女明星同款”，而是“穿搭公式”“白月光美甲”“出游穿搭”“非遗穿进日常”这类可复制结构。对做穿搭内容的人来说，真正该抄的不是爆款本身，而是爆款背后的模板。
 
-![cover](./images/fashion-hotspot-kol-playbook-2026/cover-wechat-2_35x1.webp)
+![cover](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/fashion-hotspot-kol-playbook-2026/cover-wechat-2_35x1.webp)
 
 ## 这波穿搭热点到底在涨什么
 
-![content-01](./images/fashion-hotspot-kol-playbook-2026/content-01.webp)
+![content-01](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/fashion-hotspot-kol-playbook-2026/content-01.webp)
 
 把这一轮上涨词放在一起看，你会发现它们几乎都满足三个条件：
 
@@ -18,7 +18,7 @@
 
 ## 爆款不能照搬，公式可以复用
 
-![content-02](./images/fashion-hotspot-kol-playbook-2026/content-02.webp)
+![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/fashion-hotspot-kol-playbook-2026/content-02.webp)
 
 很多账号做穿搭做着做着就没了，核心问题不是审美差，而是一直在抄“结果”，没有拆“公式”。
 
@@ -42,7 +42,7 @@
 
 ## 用 KOL 搜索找中腰部答案
 
-![content-03](./images/fashion-hotspot-kol-playbook-2026/content-03.webp)
+![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/fashion-hotspot-kol-playbook-2026/content-03.webp)
 
 头部博主能给你方向，但很少能给你可复制方法。真正值得拆的，往往是 5 万到 50 万粉、更新密度稳定、评论区收藏意图明显的中腰部账号。
 
