@@ -3,12 +3,12 @@
 > AI Skills 官网是整个技能库的统一入口，可以按技能、职业、行业和应用场景查找内容，也能直接进入具体 Skill 的介绍与使用页面。本仓库是 AI Skills 的 guides 内容源，下面先用一组移动端截图快速看一下站点形态。
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E9%A6%96%E9%A1%B5mobile.jpg" alt="AI Skills 官网首页（Mobile）" width="15%" />
-  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E6%8A%80%E8%83%BD%E5%88%97%E8%A1%A8mobile.jpg" alt="AI Skills 技能列表页（Mobile）" width="15%" />
-  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E5%B9%B3%E5%8F%B0%E6%B5%81%E9%87%8F.png" alt="AI Skills 平台流量页（Mobile）" width="15%" />
-  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E4%B8%8A%E5%8D%87%E7%83%AD%E7%82%B9mobile.png" alt="AI Skills 上升热点页（Mobile）" width="15%" />
-  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E6%89%BE%E5%AF%B9%E6%A0%87%E8%B4%A6%E5%8F%B7mobile2.jpg" alt="AI Skills 找对标账号页（Mobile）" width="15%" />
-  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E8%A7%86%E9%A2%91%E8%BF%90%E8%90%A5%E5%88%86%E6%9E%90.jpg" alt="AI Skills 视频运营分析页（Mobile）" width="15%" />
+  <picture><img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E9%A6%96%E9%A1%B5mobile.jpg" alt="AI Skills 官网首页（Mobile）" width="15%" /></picture>
+  <picture><img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E6%8A%80%E8%83%BD%E5%88%97%E8%A1%A8mobile.jpg" alt="AI Skills 技能列表页（Mobile）" width="15%" /></picture>
+  <picture><img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E5%B9%B3%E5%8F%B0%E6%B5%81%E9%87%8F.png" alt="AI Skills 平台流量页（Mobile）" width="15%" /></picture>
+  <picture><img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E4%B8%8A%E5%8D%87%E7%83%AD%E7%82%B9mobile.png" alt="AI Skills 上升热点页（Mobile）" width="15%" /></picture>
+  <picture><img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E6%89%BE%E5%AF%B9%E6%A0%87%E8%B4%A6%E5%8F%B7mobile2.jpg" alt="AI Skills 找对标账号页（Mobile）" width="15%" /></picture>
+  <picture><img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/mobile/%E8%A7%86%E9%A2%91%E8%BF%90%E8%90%A5%E5%88%86%E6%9E%90.jpg" alt="AI Skills 视频运营分析页（Mobile）" width="15%" /></picture>
 </p>
 
 <p align="center"><sub>官网首页 · 技能列表 · 平台流量 · 上升热点 · 找对标账号 · 视频运营分析</sub></p>
@@ -17,7 +17,9 @@
 
 > 大多数人用 AI 还停在「问一句答一句」。AI Skills（[ai-skills.ai](https://ai-skills.ai/)）想换一种姿势：把 AI 能力拆成一条条能直接执行的 Skill，像查字典一样调出来用。`aiskillsguides` 负责沉淀这些 Skill 背后的应用场景文章、配图和发布 meta，让站点内容可以持续更新。
 
-![AI Skills 官网场景导览图](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-01.webp)
+<picture>
+  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-01.webp" alt="AI Skills 官网场景导览图" />
+</picture>
 
 ## AI Skills 是什么：一个能直接查的技能库
 
@@ -33,7 +35,9 @@ AI Skills 是一个面向各行各业的 AI 技能库。站点首屏给的定义
 
 ## Skill 不是 Prompt：中间差了一整套流程
 
-![content-02](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-02.webp)
+<picture>
+  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-02.webp" alt="content-02" />
+</picture>
 
 很多人第一次看到「AI 技能库」，以为就是 Prompt 合集。这是个常见误会。
 
@@ -48,7 +52,9 @@ Prompt 是一句话，Skill 是一个**能被执行的流程**：它至少包含
 
 ## 四个主入口：技能列表 / 职业 / 行业 / 应用场景
 
-![content-03](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-03.webp)
+<picture>
+  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-03.webp" alt="content-03" />
+</picture>
 
 站点顶部导航给了四条主线，对应四种找技能的姿势：
 
@@ -63,7 +69,9 @@ Prompt 是一句话，Skill 是一个**能被执行的流程**：它至少包含
 
 ## 怎么接入：三种典型用法
 
-![content-04](https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-04.webp)
+<picture>
+  <img src="https://raw.githubusercontent.com/allinherog-star/aiskillsguides/HEAD/guides/images/ai-skills-site-readme/content-04.webp" alt="content-04" />
+</picture>
 
 目前有三种推荐姿势：
 
