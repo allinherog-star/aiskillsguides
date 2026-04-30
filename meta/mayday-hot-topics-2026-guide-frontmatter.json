@@ -1,0 +1,53 @@
+{
+  "$comment": "Meta for mayday-hot-topics-2026. See .agents/skills/guide-release-sync/references/frontmatter-mapping.md for enum values.",
+  "pillar": "content-creation",
+  "date": "2026-04-30",
+  "updated": "2026-04-30",
+  "tags": [
+    "五一热点",
+    "内容选题",
+    "文旅消费",
+    "自驾游",
+    "亲子研学",
+    "AI出行"
+  ],
+  "audience": [
+    "短视频创作者",
+    "内容运营",
+    "本地生活运营",
+    "城市号主理人",
+    "文旅营销团队"
+  ],
+  "valuePoints": [
+    "快速看懂2026五一最值得期待的6条热点线",
+    "把深度停留、自驾补能、亲子研学、演出赛事等趋势拆成可执行选题",
+    "学会用场景、矛盾、动作和结果搭建假期内容选题公式"
+  ],
+  "relatedSkills": [
+    "douyin-realtime-hot-rise",
+    "douyin-traffic-dashboard",
+    "douyin-kol-search"
+  ],
+  "professions": [
+    "blogger-individual",
+    "operations",
+    "seller"
+  ],
+  "subProfessions": [
+    "blogger",
+    "creator",
+    "content-creator",
+    "brand-owner"
+  ],
+  "industries": [
+    "media",
+    "ecommerce",
+    "culture"
+  ],
+  "summary": "2026五一有5天假期，春假、自驾、演出赛事、黑马小城和AI出行服务共同放大用户注意力。本文把最值得期待的6条热点拆成创作者和运营能直接使用的选题清单。",
+  "authorId": "ai-skills",
+  "draft": false,
+  "featured": true,
+  "translationKey": "guides-mayday-hot-topics-2026",
+  "locale": "zh"
+}
