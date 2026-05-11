@@ -100,6 +100,15 @@ Prompt 是一句话，Skill 是一个**能被执行的流程**：它至少包含
 2. 将对应图片放入 `guides/images/<slug>/`
 3. 在 `meta/` 下补齐发布所需 JSON
 4. 从根仓运行 `.agents/skills/guide-release-sync/scripts/sync.py`
-5. 同步结果写入 `ai-skills-web/content/guides/**` 与 `ai-skills-web/public/guides/<slug>/`
+5. 同步结果只写入 `ai-skills-web/content/guides/**`
+6. 从根仓的 `guides-cdn-sync/` 手动同步图片到 OSS/CDN：
+
+```bash
+cd ../guides-cdn-sync
+npm install
+npm run sync -- --slug <slug> --dry-run
+npm run sync -- --slug <slug>
+```
 
 根仓中的 `guide-release-sync` skill 把本仓作为 guides 的唯一写作源。
+`guides/images/<slug>/` 是站点图片的权威来源；`ai-skills-web/public/guides` 已废弃，不要再把图片复制到 Web 项目。
