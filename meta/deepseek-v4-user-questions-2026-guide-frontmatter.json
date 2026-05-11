@@ -39,6 +39,7 @@
     "通用"
   ],
   "summary": "截至 2026 年 4 月 24 日，DeepSeek V4 Preview 已在官方文档、API 更新日志和开源模型卡中出现。这篇用 7 个用户最关心的问题，拆清 V4 是否真的上线、Pro/Flash 怎么选、老模型名何时退场、价格是否划算、1M 上下文和 Agent 能力该如何验证。",
+  "seoDescription": "DeepSeek V4 Preview 相关信息分散在文档、API 日志和模型卡里。本文用 7 个高频问题梳理上线状态、Pro/Flash 选择、旧模型退场、价格、1M 上下文与 Agent 能力验证，帮你判断是否值得迁移。",
   "date": "2026-04-24",
   "updated": "2026-04-24",
   "authorId": "ai-skills",

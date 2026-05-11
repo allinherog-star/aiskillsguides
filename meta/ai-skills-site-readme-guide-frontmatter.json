@@ -32,6 +32,7 @@
   ],
   "subProfessions": null,
   "summary": "AI Skills（ai-skills.ai）是面向职业成长与行业竞争力的 AI 技能库：把大模型能力拆成一条条能直接跑的 Skill。本文一次讲清站点定位、跨市场接入 5 步、四个主入口与三种使用方式。",
+  "seoDescription": "AI Skills 是面向职业成长与行业落地的 AI 技能库。本文用 5 步接入流程、四个站点入口和三种使用方式，帮新用户快速理解 Skill 与 Prompt 的差别，并把官网、skills.sh、ClawHub 的安装路径一次串起来。",
   "updated": "2026-04-24",
   "authorId": "ai-skills",
   "draft": false,
