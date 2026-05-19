@@ -1,0 +1,53 @@
+{
+  "$comment": "Meta for auto-wechat-xhs-article-skill-2026. See .agents/skills/guide-release-sync/references/frontmatter-mapping.md for enum values.",
+  "pillar": "content-creation",
+  "tags": [
+    "自动图文助手",
+    "公众号文章",
+    "小红书种草",
+    "AI 图文生成",
+    "AI Skills"
+  ],
+  "audience": [
+    "内容创作者",
+    "品牌运营",
+    "知识博主",
+    "新媒体团队"
+  ],
+  "valuePoints": [
+    "理解自动图文助手如何把主题、正文、封面、正文配图和发布建议合成一套发布包",
+    "看懂公众号文章和小红书种草在结构、封面和表达重点上的差异",
+    "知道如何从自动图文助手切入，再继续探索 AI Skills 200+ 技能和应用能力"
+  ],
+  "relatedSkills": [
+    "ai-article",
+    "xhs-viral-copywriter",
+    "auto-article-images"
+  ],
+  "professions": [
+    "blogger-individual",
+    "operations",
+    "seller"
+  ],
+  "industries": [
+    "media",
+    "ecommerce",
+    "retail",
+    "education"
+  ],
+  "subProfessions": [
+    "blogger",
+    "creator",
+    "content-creator",
+    "copywriter",
+    "brand-owner"
+  ],
+  "summary": "自动图文助手是 AI Skills 新上架的内容创作技能：一句话生成公众号文章、小红书种草文案、多比例封面、正文配图和发布建议，适合创作者、品牌运营和新媒体团队快速做出可复核的图文发布包。",
+  "seoDescription": "自动图文助手可生成自动公众号文章、小红书种草文案、多比例封面、正文配图和发布建议。本文讲清它适合哪些创作者使用，以及如何接入 AI Skills 新上架的 200+ 技能。",
+  "updated": "2026-05-19",
+  "authorId": "ai-skills",
+  "draft": false,
+  "featured": true,
+  "translationKey": "guides-auto-wechat-xhs-article-skill-2026",
+  "locale": "zh"
+}
