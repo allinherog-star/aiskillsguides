@@ -1,0 +1,48 @@
+{
+  "$comment": "Meta for douyin-hot-week-benchmark-accounts-2026. See .agents/skills/guide-release-sync/references/frontmatter-mapping.md for enum values.",
+  "pillar": "content-creation",
+  "tags": [
+    "抖音对标账号",
+    "抖音KOL搜索",
+    "热点选题",
+    "热点周",
+    "中腰部账号",
+    "内容创作"
+  ],
+  "audience": [
+    "短视频运营",
+    "内容创作者",
+    "新媒体运营",
+    "品牌内容负责人"
+  ],
+  "valuePoints": [
+    "把 618、高考、世界环境日和 WWDC26 这类事件型热点拆成可搜索、可对标的关键词",
+    "学会用 `douyin-kol-search` 找中腰部账号，而不是只盯头部热号",
+    "拿到一份 7 天执行表，把热点、样本和选题节奏排成可执行动作"
+  ],
+  "relatedSkills": [
+    "douyin-kol-search",
+    "douyin-realtime-hot-rise",
+    "douyin-traffic-dashboard"
+  ],
+  "professions": [
+    "operations",
+    "blogger-individual"
+  ],
+  "subProfessions": [
+    "content-creator",
+    "creator"
+  ],
+  "industries": [
+    "media",
+    "ecommerce"
+  ],
+  "summary": "这一周的热点很挤：618、世界环境日、高考和 WWDC26 几乎连在一起。本文不教你追热搜，而是教你怎么先拆热点、再用 `douyin-kol-search` 找中腰部对标账号，把事件型话题变成可复用的内容模板。",
+  "seoDescription": "这一周有 618、世界环境日、高考和 WWDC26，别只追热搜。本文演示如何用 `douyin-kol-search` 先拆关键词、再找中腰部对标账号，把热点变成可复用的内容模板和 7 天选题节奏。",
+  "updated": "2026-06-03",
+  "authorId": "ai-skills",
+  "draft": false,
+  "featured": false,
+  "translationKey": "guides-douyin-hot-week-benchmark-accounts-2026",
+  "locale": "zh"
+}
